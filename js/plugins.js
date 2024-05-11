@@ -8,7 +8,7 @@ var $plugins =
 {"name":"SRD_CameraCore","status":true,"description":"Allows developers to preform various camera motions including focusing and zooming.","parameters":{"Default Zoom":"1","Zoom Pictures?":"true","Margin Formula":"(Graphics.width / scale) - Graphics.width","Fix Black Lines":"true"}},
 {"name":"TDDP_MouseSystemEx","status":true,"description":"","parameters":{}},
 {"name":"metodos","status":true,"description":"Plugin contendo métodos personalizados para uso fora do RPG Maker MV.","parameters":{}},
-{"name":"teste","status":true,"description":"","parameters":{}},
+{"name":"teste","status":false,"description":"","parameters":{}},
 {"name":"teste 2","status":false,"description":"","parameters":{}},
-{"name":"inventario","status":false,"description":"","parameters":{}}
+{"name":"inventario","status":true,"description":"","parameters":{}}
 ];
